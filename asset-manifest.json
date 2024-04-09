@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/EDUCASE_ASSIGNMENT/static/css/main.c3672a5e.chunk.css",
+    "main.js": "/EDUCASE_ASSIGNMENT/static/js/main.aa127fab.chunk.js",
+    "main.js.map": "/EDUCASE_ASSIGNMENT/static/js/main.aa127fab.chunk.js.map",
+    "runtime-main.js": "/EDUCASE_ASSIGNMENT/static/js/runtime-main.50662577.js",
+    "runtime-main.js.map": "/EDUCASE_ASSIGNMENT/static/js/runtime-main.50662577.js.map",
+    "static/css/2.98036eff.chunk.css": "/EDUCASE_ASSIGNMENT/static/css/2.98036eff.chunk.css",
+    "static/js/2.3320711a.chunk.js": "/EDUCASE_ASSIGNMENT/static/js/2.3320711a.chunk.js",
+    "static/js/2.3320711a.chunk.js.map": "/EDUCASE_ASSIGNMENT/static/js/2.3320711a.chunk.js.map",
+    "index.html": "/EDUCASE_ASSIGNMENT/index.html",
+    "precache-manifest.54da7dec153cf3b20a6bea77d441d68a.js": "/EDUCASE_ASSIGNMENT/precache-manifest.54da7dec153cf3b20a6bea77d441d68a.js",
+    "service-worker.js": "/EDUCASE_ASSIGNMENT/service-worker.js",
+    "static/css/2.98036eff.chunk.css.map": "/EDUCASE_ASSIGNMENT/static/css/2.98036eff.chunk.css.map",
+    "static/css/main.c3672a5e.chunk.css.map": "/EDUCASE_ASSIGNMENT/static/css/main.c3672a5e.chunk.css.map",
+    "static/js/2.3320711a.chunk.js.LICENSE.txt": "/EDUCASE_ASSIGNMENT/static/js/2.3320711a.chunk.js.LICENSE.txt",
+    "static/media/Ellipse 114@2x.png": "/EDUCASE_ASSIGNMENT/static/media/Ellipse 114@2x.c9255dd1.png",
+    "static/media/camera.svg": "/EDUCASE_ASSIGNMENT/static/media/camera.70fe85d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50662577.js",
+    "static/css/2.98036eff.chunk.css",
+    "static/js/2.3320711a.chunk.js",
+    "static/css/main.c3672a5e.chunk.css",
+    "static/js/main.aa127fab.chunk.js"
+  ]
+}
